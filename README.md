@@ -6,7 +6,7 @@ Collection of blank symbols 空白符号搜集
 ##栗子1
 
 ( )括号中的就是空白符号。注意要负责，自然输入好像不可以，此空白符号是本人解析excel的时候发现的。
-
+ 
 java: String word="hello blank!";
 
 python: word = 'hello\xc2\xa0blank'
